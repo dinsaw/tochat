@@ -10,6 +10,10 @@ import javax.swing.text.StyleContext;
 
 import dev.dinesh.tochat.util.ProgramVars;
 
+/**
+ * @author dinesh
+ *
+ */
 public class ChatArea extends JTextPane
 {
   private static final long serialVersionUID = 1L;

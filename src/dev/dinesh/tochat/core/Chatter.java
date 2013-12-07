@@ -2,6 +2,10 @@ package dev.dinesh.tochat.core;
 
 import java.net.InetAddress;
 
+/**
+ * @author dinesh
+ *
+ */
 public class Chatter {
 	private String name = null;
 	private InetAddress address;

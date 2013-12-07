@@ -16,6 +16,10 @@ import dev.dinesh.tochat.core.listener.ChatBroker;
 import dev.dinesh.tochat.core.listener.ChatListener;
 import dev.dinesh.tochat.util.ProgramVars;
 
+/**
+ * @author dinesh
+ *
+ */
 public class Server
 implements Runnable,ChatBroker
 {

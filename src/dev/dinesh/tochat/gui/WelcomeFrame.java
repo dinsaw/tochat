@@ -15,6 +15,10 @@ import javax.swing.JTextField;
 
 import dev.dinesh.tochat.util.ProgramVars;
 
+/**
+ * @author dinesh
+ *
+ */
 public class WelcomeFrame extends JFrame
   implements ActionListener, KeyListener
 {

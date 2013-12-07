@@ -17,6 +17,10 @@ import dev.dinesh.tochat.core.listener.ChatListener;
 import dev.dinesh.tochat.gui.chatonents.ChatArea;
 import dev.dinesh.tochat.util.ProgramVars;
 
+/**
+ * @author dinesh
+ *
+ */
 public class Client implements Runnable, ChatBroker {
 	private int serverPort;
 	private InetAddress serverAddress = null;

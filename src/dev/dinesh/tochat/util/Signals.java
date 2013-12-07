@@ -1,5 +1,9 @@
 package dev.dinesh.tochat.util;
 
+/**
+ * @author dinesh
+ *
+ */
 public abstract interface Signals
 {
   public static final String SHAKEHAND = "&^&@$*(ramrampavan)*$@&^&";

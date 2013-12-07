@@ -4,7 +4,7 @@
 package dev.dinesh.tochat.core;
 
 /**
- * @author dsawant
+ * @author dinesh
  *
  */
 public class Message {

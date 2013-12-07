@@ -11,6 +11,10 @@ import javax.swing.JLabel;
 
 import dev.dinesh.tochat.util.ProgramVars;
 
+/**
+ * @author dinesh
+ *
+ */
 public class ChooseRoleFrame extends JFrame
   implements ActionListener
 {

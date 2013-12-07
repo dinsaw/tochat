@@ -12,6 +12,10 @@ import dev.dinesh.tochat.core.Message;
 import dev.dinesh.tochat.core.Server;
 import dev.dinesh.tochat.core.listener.ChatListener;
 
+/**
+ * @author dinesh
+ *
+ */
 public class HostFrame extends JFrame implements ActionListener, ChatListener {
 	private static final long serialVersionUID = 1L;
 	private Server cserver;

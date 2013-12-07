@@ -16,6 +16,10 @@ import javax.swing.JTextField;
 import dev.dinesh.tochat.gui.chatonents.ChatFrame;
 import dev.dinesh.tochat.util.ProgramVars;
 
+/**
+ * @author dinesh
+ *
+ */
 public class RoleDetailsFrame extends JFrame
   implements ItemListener, ActionListener
 {

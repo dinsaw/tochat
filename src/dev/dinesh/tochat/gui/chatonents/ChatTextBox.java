@@ -6,6 +6,10 @@ import javax.swing.JTextField;
 
 import dev.dinesh.tochat.util.ProgramVars;
 
+/**
+ * @author dinesh
+ *
+ */
 public class ChatTextBox extends JTextField
 {
   private static final long serialVersionUID = 1L;

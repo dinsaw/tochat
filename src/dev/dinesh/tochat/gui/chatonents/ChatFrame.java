@@ -18,6 +18,10 @@ import dev.dinesh.tochat.core.Message;
 import dev.dinesh.tochat.core.listener.ChatListener;
 import dev.dinesh.tochat.util.ProgramVars;
 
+/**
+ * @author dinesh
+ *
+ */
 public class ChatFrame extends JFrame implements ActionListener, KeyListener,
 		ChatListener {
 	private static final long serialVersionUID = 1L;

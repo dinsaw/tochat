@@ -4,6 +4,10 @@ import java.io.IOException;
 
 import javax.swing.UnsupportedLookAndFeelException;
 
+/**
+ * @author dinesh
+ *
+ */
 public class TestMain
 {
   final String jtatoolaf = "com.jtattoo.plaf.smart.SmartLookAndFeel";

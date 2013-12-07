@@ -5,6 +5,10 @@ import java.awt.Font;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
+/**
+ * @author dinesh
+ *
+ */
 public class ProgramVars
 {
   private static String SFRAMETITLE = "T-O-C-H-A-T By DBS _____________ Server";
